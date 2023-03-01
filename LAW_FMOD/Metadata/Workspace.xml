@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{6956fe85-aaaa-4e42-a1d8-6c173522386a}">
 		<property name="builtBanksOutputDirectory">
-			<value>banks</value>
+			<value>../../LAW_GIT/LAW_FMOD/banks</value>
 		</property>
 		<property name="builtBanksMirrorBrowserFolderHierarchy">
 			<value>true</value>
