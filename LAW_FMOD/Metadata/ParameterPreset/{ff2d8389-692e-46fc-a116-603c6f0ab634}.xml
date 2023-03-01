@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ff2d8389-692e-46fc-a116-603c6f0ab634}">
+		<property name="name">
+			<value>msc_switch</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d99ba7d0-7189-497b-9e7d-bbf4869cf73b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e87fb521-d8f4-46c2-a6fa-cbe85af17469}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e87fb521-d8f4-46c2-a6fa-cbe85af17469}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>main_theme</value>
+			<value>battle</value>
+			<value>city</value>
+			<value>map</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
