@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b9095a10-b1d2-4bb4-840d-43dd936b6c1e}">
 		<property name="assetPath">
-			<value>Stinger.wav</value>
+			<value>Music/Stinger.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

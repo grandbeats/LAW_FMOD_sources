@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{91c337f3-ba7d-48c0-b8c2-bdf72bf812df}">
 		<property name="assetPath">
-			<value>ram_attack_var03.wav</value>
+			<value>Interactable_objects/ram_attack_var03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

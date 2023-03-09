@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{73392b54-c9c3-42fd-abc9-f57fe591c2cf}">
 		<property name="assetPath">
-			<value>building_replacement_drag.wav</value>
+			<value>Interactable_objects/building_replacement_drag.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

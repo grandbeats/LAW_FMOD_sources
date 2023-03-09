@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7aba3767-25e0-437c-ab09-b95d262e2db6}">
 		<property name="assetPath">
-			<value>HOAO_Menu_stn_110_4-4_1b_0.75bpo.wav</value>
+			<value>Music/HOAO_Menu_stn_110_4-4_1b_0.75bpo.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

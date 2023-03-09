@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c0b5e8c6-2572-462a-89e0-6cbc05ed249d}">
 		<property name="assetPath">
-			<value>ship_destroy_var02.wav</value>
+			<value>Interactable_objects/ship_destroy_var02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

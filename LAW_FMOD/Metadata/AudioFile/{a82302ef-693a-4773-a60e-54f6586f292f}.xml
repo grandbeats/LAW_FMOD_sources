@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a82302ef-693a-4773-a60e-54f6586f292f}">
 		<property name="assetPath">
-			<value>amb_building_special_maria-del-fiore.wav</value>
+			<value>Ambient/amb_building_special_maria-del-fiore.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

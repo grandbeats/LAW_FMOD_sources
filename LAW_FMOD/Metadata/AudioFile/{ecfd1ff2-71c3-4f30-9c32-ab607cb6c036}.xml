@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ecfd1ff2-71c3-4f30-9c32-ab607cb6c036}">
 		<property name="assetPath">
-			<value>bolt_shot_var02.wav</value>
+			<value>Interactable_objects/bolt_shot_var02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

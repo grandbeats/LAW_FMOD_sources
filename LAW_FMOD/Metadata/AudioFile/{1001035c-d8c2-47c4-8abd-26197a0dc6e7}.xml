@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1001035c-d8c2-47c4-8abd-26197a0dc6e7}">
 		<property name="assetPath">
-			<value>cannon_shot_var02.wav</value>
+			<value>Interactable_objects/cannon_shot_var02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

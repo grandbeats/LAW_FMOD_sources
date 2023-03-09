@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d65856ba-b945-428d-b6bd-f4674b92923b}">
 		<property name="assetPath">
-			<value>horse_attack_var02.wav</value>
+			<value>Interactable_objects/horse_attack_var02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

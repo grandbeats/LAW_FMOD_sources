@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{926f4072-4ef8-4f78-b315-c2b9804fd560}">
 		<property name="assetPath">
-			<value>melee_attack_var03.wav</value>
+			<value>Interactable_objects/melee_attack_var03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

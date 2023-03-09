@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{efcc1725-7872-4143-a481-85df9642e460}">
 		<property name="assetPath">
-			<value>horse_die_var03.wav</value>
+			<value>Interactable_objects/horse_die_var03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

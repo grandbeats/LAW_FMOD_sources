@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f40e76d3-fb18-4804-8eb1-84df923e2443}">
 		<property name="assetPath">
-			<value>notif_new_event.wav</value>
+			<value>UI/notif_new_event.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dfa441ee-19d3-4f93-a018-61413159736a}">
 		<property name="assetPath">
-			<value>trebuchet_canonball_fly_var01.wav</value>
+			<value>Interactable_objects/trebuchet_canonball_fly_var01.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
